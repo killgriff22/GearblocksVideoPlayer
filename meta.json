@@ -1,0 +1,7 @@
+{
+    "name": "PixelDisplay",
+    "desc": "This mod implements a ingame display using light parts.\nIt relies on a file in your gearblocks root folder, and a python application to generate this file.\nvisit the github page for details on how to use and configure this mod\n\nlink\n\n\nThis mod is also best used in conjunction with the Bepinex External Console.\nyou can also find information about installation and configuration on the above github page.",
+    "tags": [
+      "scriptmod", "thisisx-x"
+    ]
+  }
