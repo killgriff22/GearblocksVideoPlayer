@@ -1,6 +1,6 @@
 
 # To install  
-* subscribe to the mod on the workshop  
+* subscribe to the mod on the [workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3533429455)  
 * if you dont already have it, get a version of [python](https://www.python.org/downloads/) newer than 3.9  
 
 # To use
